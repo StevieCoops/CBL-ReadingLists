@@ -447,22 +447,22 @@
 <Book Series="Spider-Woman" Number="5" Volume="2015" Year="2016">
 <Database Name="cv" Series="86127" Issue="520211" />
 </Book>
-<Book Series="Silk" Number="1" Volume="2015" Year="2016">
+<Book Series="Silk" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="506662" />
 </Book>
-<Book Series="Silk" Number="2" Volume="2015" Year="2016">
+<Book Series="Silk" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="508436" />
 </Book>
-<Book Series="Silk" Number="3" Volume="2015" Year="2016">
+<Book Series="Silk" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="510952" />
 </Book>
-<Book Series="Silk" Number="4" Volume="2015" Year="2016">
+<Book Series="Silk" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="514449" />
 </Book>
-<Book Series="Silk" Number="5" Volume="2015" Year="2016">
+<Book Series="Silk" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="516965" />
 </Book>
-<Book Series="Silk" Number="6" Volume="2015" Year="2016">
+<Book Series="Silk" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="520210" />
 </Book>
 <Book Series="Drax" Number="1" Volume="2015" Year="2016">
@@ -1314,7 +1314,7 @@
 <Book Series="Spider-Gwen" Number="7" Volume="2015" Year="2016">
 <Database Name="cv" Series="85311" Issue="525037" />
 </Book>
-<Book Series="Silk" Number="7" Volume="2015" Year="2016">
+<Book Series="Silk" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="526066" />
 </Book>
 <Book Series="Spider-Woman" Number="6" Volume="2015" Year="2016">
@@ -1323,7 +1323,7 @@
 <Book Series="Spider-Gwen" Number="8" Volume="2015" Year="2016">
 <Database Name="cv" Series="85311" Issue="528520" />
 </Book>
-<Book Series="Silk" Number="8" Volume="2015" Year="2016">
+<Book Series="Silk" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="529661" />
 </Book>
 <Book Series="Spider-Woman" Number="7" Volume="2015" Year="2016">
@@ -1896,19 +1896,19 @@
 <Book Series="Daredevil" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86343" Issue="566704" />
 </Book>
-<Book Series="Silk" Number="9" Volume="2015" Year="2016">
+<Book Series="Silk" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="537943" />
 </Book>
-<Book Series="Silk" Number="10" Volume="2015" Year="2016">
+<Book Series="Silk" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="539251" />
 </Book>
-<Book Series="Silk" Number="11" Volume="2015" Year="2016">
+<Book Series="Silk" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="542628" />
 </Book>
-<Book Series="Silk" Number="12" Volume="2015" Year="2016">
+<Book Series="Silk" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="548582" />
 </Book>
-<Book Series="Silk" Number="13" Volume="2015" Year="2016">
+<Book Series="Silk" Number="13" Volume="2016" Year="2016">
 <Database Name="cv" Series="86251" Issue="553966" />
 </Book>
 <Book Series="Deadpool v Gambit" Number="1" Volume="2016" Year="2016">
@@ -2769,10 +2769,10 @@
 <Book Series="The Amazing Spider-Man" Number="21" Volume="2015" Year="2017">
 <Database Name="cv" Series="85076" Issue="558408" />
 </Book>
-<Book Series="Silk" Number="14" Volume="2015" Year="2017">
+<Book Series="Silk" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="86251" Issue="558421" />
 </Book>
-<Book Series="Silk" Number="15" Volume="2015" Year="2017">
+<Book Series="Silk" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86251" Issue="566723" />
 </Book>
 <Book Series="The Clone Conspiracy" Number="3" Volume="2016" Year="2017">
@@ -2790,7 +2790,7 @@
 <Book Series="Prowler" Number="3" Volume="2016" Year="2017">
 <Database Name="cv" Series="95232" Issue="571680" />
 </Book>
-<Book Series="Silk" Number="16" Volume="2015" Year="2017">
+<Book Series="Silk" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="86251" Issue="575881" />
 </Book>
 <Book Series="The Clone Conspiracy" Number="4" Volume="2016" Year="2017">
@@ -2805,7 +2805,7 @@
 <Book Series="The Clone Conspiracy" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="94788" Issue="581550" />
 </Book>
-<Book Series="Silk" Number="17" Volume="2015" Year="2017">
+<Book Series="Silk" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="86251" Issue="581567" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="24" Volume="2015" Year="2017">
@@ -2820,10 +2820,10 @@
 <Book Series="Prowler" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="95232" Issue="588572" />
 </Book>
-<Book Series="Silk" Number="18" Volume="2015" Year="2017">
+<Book Series="Silk" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="86251" Issue="583727" />
 </Book>
-<Book Series="Silk" Number="19" Volume="2015" Year="2017">
+<Book Series="Silk" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="86251" Issue="592610" />
 </Book>
 <Book Series="Thunderbolts" Number="7" Volume="2016" Year="2017">
